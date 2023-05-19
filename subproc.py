@@ -1,5 +1,5 @@
 import subprocess as sp
-import csv # wasn't necessary but gave me good practice and helped organize information
+import csv
 
 # To run commands in cmd (ipconfig and hostname)
 def run_command(cmd):
